@@ -67,6 +67,9 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     debugImplementation("androidx.compose.ui:ui-tooling")
 
+    //icons
+    implementation("androidx.compose.material:material-icons-extended")
+
     // Optional: Remove if unnecessary
     // Ensure `libs.androidx.ui.android` exists in your `libs.versions.toml`
     // or replace with a valid dependency.
